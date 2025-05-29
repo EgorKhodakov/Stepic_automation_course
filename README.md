@@ -1,4 +1,4 @@
 # Stepic_automation_course
-Course homework
+Course homework.
 Репозиторий для хранния домашних работ курса по атвоматизации тестирования.
 Не снижайте бал, пожалуйста :)
